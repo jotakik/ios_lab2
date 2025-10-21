@@ -1,0 +1,6 @@
+[submodule "ios_lab2_jotakik"]
+	path = ios_lab2_jotakik
+	url = https://github.com/jotakik/ios_lab2_jotakik.git
+[submodule "ios_lab2_zberger007_jotakik"]
+	path = ios_lab2_zberger007_jotakik
+	url = https://github.com/jotakik/ios_lab2_zberger007_jotakik.git
